@@ -1,1 +1,1 @@
-# El-Ni-o-Southern-Oscillation-ENSO-Analysis
+# El-Niño-Southern-Oscillation-ENSO-Analysis
